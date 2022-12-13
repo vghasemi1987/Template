@@ -1,0 +1,375 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj",
+        "projectName": "Dtat",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj",
+        "projectName": "Resources",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj",
+        "projectName": "Server",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj",
+        "projectName": "ViewModels",
+        "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj"
+              },
+              "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj": {
+                "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

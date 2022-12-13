@@ -1,0 +1,182 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Dtat": "1.0.0",
+          "Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      },
+      "Dtat/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dtat.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dtat.dll": {}
+        }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Dtat": "1.0.0",
+          "ViewModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
+        }
+      },
+      "Resources/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Resources.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Resources.dll": {}
+        }
+      },
+      "ViewModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Domain": "1.0.0",
+          "Resources": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ViewModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Dtat/1.0.0": {
+      "type": "project",
+      "path": "../Dtat/Dtat.csproj",
+      "msbuildProject": "../Dtat/Dtat.csproj"
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
+    },
+    "Resources/1.0.0": {
+      "type": "project",
+      "path": "../Resources/Resources.csproj",
+      "msbuildProject": "../Resources/Resources.csproj"
+    },
+    "ViewModels/1.0.0": {
+      "type": "project",
+      "path": "../ViewModels/ViewModels.csproj",
+      "msbuildProject": "../ViewModels/ViewModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Domain >= 1.0.0",
+      "Dtat >= 1.0.0",
+      "Persistence >= 1.0.0",
+      "Resources >= 1.0.0",
+      "ViewModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\RPTD\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj",
+      "projectName": "Server",
+      "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\RPTD\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Server\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\RPTD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Domain\\Domain.csproj"
+            },
+            "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj": {
+              "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Dtat\\Dtat.csproj"
+            },
+            "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Persistence\\Persistence.csproj"
+            },
+            "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj": {
+              "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\Resources\\Resources.csproj"
+            },
+            "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj": {
+              "projectPath": "D:\\Code\\LCR\\NewLCR\\LCR\\ViewModels\\ViewModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

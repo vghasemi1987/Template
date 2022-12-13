@@ -1,0 +1,12 @@
+D:\Code\LCR\NewLCR\LCR\Dtat\bin\Debug\net7.0\Dtat.deps.json
+D:\Code\LCR\NewLCR\LCR\Dtat\bin\Debug\net7.0\Dtat.dll
+D:\Code\LCR\NewLCR\LCR\Dtat\bin\Debug\net7.0\Dtat.pdb
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.csproj.AssemblyReference.cache
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.AssemblyInfoInputs.cache
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.AssemblyInfo.cs
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.csproj.CoreCompileInputs.cache
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.dll
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\refint\Dtat.dll
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\Dtat.pdb
+D:\Code\LCR\NewLCR\LCR\Dtat\obj\Debug\net7.0\ref\Dtat.dll

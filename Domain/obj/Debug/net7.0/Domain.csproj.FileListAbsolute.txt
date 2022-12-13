@@ -1,0 +1,17 @@
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Domain.deps.json
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Domain.dll
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Domain.pdb
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Dtat.dll
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Resources.dll
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Dtat.pdb
+D:\Code\LCR\NewLCR\LCR\Domain\bin\Debug\net7.0\Resources.pdb
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.csproj.CopyComplete
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.dll
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\refint\Domain.dll
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\Domain.pdb
+D:\Code\LCR\NewLCR\LCR\Domain\obj\Debug\net7.0\ref\Domain.dll
