@@ -35,3 +35,7 @@ D:\Code\LCR\NewLCR\LCR\Server\bin\Debug\net7.0\Persistence.pdb
 D:\Code\LCR\NewLCR\LCR\Server\bin\Debug\net7.0\Resources.pdb
 D:\Code\LCR\NewLCR\LCR\Server\bin\Debug\net7.0\ViewModels.pdb
 D:\Code\LCR\NewLCR\LCR\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+D:\Code\LCR\NewLCR\LCR\Server\bin\Debug\net7.0\Server.staticwebassets.runtime.json
+D:\Code\LCR\NewLCR\LCR\Server\obj\Debug\net7.0\Server.RazorAssemblyInfo.cache
+D:\Code\LCR\NewLCR\LCR\Server\obj\Debug\net7.0\Server.RazorAssemblyInfo.cs
+D:\Code\LCR\NewLCR\LCR\Server\bin\Debug\net7.0\libman.json

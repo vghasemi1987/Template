@@ -15,7 +15,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="wwwroot\" />
+	  <Folder Include="Documents\" />
+	  <Folder Include="Pages\Errors\" />
+	  <Folder Include="Pages\Shared\Layouts\" />
+	  <Folder Include="Pages\Shared\PartialViews\" />
+	  <Folder Include="wwwroot\js\" />
+	  <Folder Include="wwwroot\lib\" />
 	</ItemGroup>
 
 </Project>
